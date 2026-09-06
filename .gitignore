@@ -1,0 +1,15 @@
+# R
+.Rhistory
+.RData
+.lintr.R
+
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# folders in repo
+Additional_analysis/
